@@ -1,0 +1,30 @@
+_repo: Alchemy--Ancient-and-ModernTheir-Relations-to-Mysticism-on-the-One-Hand-and-..._43240
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43240-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Redgrove, H. Stanley (Herbert Stanley)
+    alias: Redgrove, Herbert Stanley
+    birthdate: 1887
+    deathdate: 1943
+    gutenberg_agent_id: '579'
+    url: http://www.gutenberg.org/2009/agents/579
+description: ''
+gutenberg_issued: '2013-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alchemy -- History'
+- !lcc 'QD'
+title: "Alchemy: Ancient and Modern\r\nBeing a Brief Account of the Alchemistic Doctrines,\
+  \ and Their Relations, to Mysticism on the One Hand, and to Recent Discoveries in\
+  \ Physical Science on the Other Hand; Together with Some Particulars Regarding the\
+  \ Lives and Teachings of the Most Noted Alchemists"
+url: http://www.gutenberg.org/ebooks/43240
