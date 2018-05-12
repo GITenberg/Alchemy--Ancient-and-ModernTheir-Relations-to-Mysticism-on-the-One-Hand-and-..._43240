@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '579'
     url: http://www.gutenberg.org/2009/agents/579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43240#Alchemy--Ancient-and-ModernTheir-Relations-to-Mysticism-on-the-One-Hand-and-...
 gutenberg_issued: '2013-07-17'
 gutenberg_type: Text
 identifiers:
